@@ -1,5 +1,7 @@
 # CS Leetcode Interview Problems
 
+**Shortlink:** make.sc/cs-leetcode
+
 Links to Leetcode problems based on topics in CS 1.0-CS 2.2. Created by Curriculum Assistant Starlight Romero.
 
 Challenges come in Basic, Master, and Stretch variants.
