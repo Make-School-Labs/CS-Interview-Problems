@@ -1,6 +1,6 @@
 # CS Leetcode Interview Problems
 
-**Shortlink:** make.sc/cs-leetcode
+**Shortlink:** [make.sc/cs-leetcode](make.sc/cs-leetcode)
 
 Links to Leetcode problems based on topics in CS 1.0-CS 2.2. Created by Curriculum Assistant Starlight Romero.
 
